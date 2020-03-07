@@ -1,0 +1,10 @@
+{
+    "startOfVerse": "On the",
+    "event": "day of Christmas,",
+    "giver":"my true love",
+    "action": "gave to me",
+    "joinLastDay": "And",
+    "days": [
+        { "ordinal":"first", "gift":"a partridge in a pear tree"}
+    ]
+}
