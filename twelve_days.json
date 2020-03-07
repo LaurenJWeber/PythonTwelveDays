@@ -1,0 +1,21 @@
+{
+    "startOfVerse": "On the",
+    "event": "day of Christmas,",
+    "giver":"my true love",
+    "action": "gave to me,",
+    "joinLastDay": "And",
+    "days": [
+        { "ordinal":"first", "gift":"a partridge in a pear tree"},
+        { "ordinal":"second", "gift":"Two turtle doves"},
+        { "ordinal":"third", "gift":"Three french hens"},
+        { "ordinal":"fourth", "gift":"Four calling birds"},
+        { "ordinal":"fifth", "gift":"Five gold rings"},
+        { "ordinal":"sixth", "gift":"Six geese a laying"},
+        { "ordinal":"seventh", "gift":"Seven swans a swimming"},
+        { "ordinal":"eighth", "gift":"Eight maids a milking"},
+        { "ordinal":"ninth", "gift":"Nine ladies dancing"},
+        { "ordinal":"tenth", "gift":"Ten lords a leaping"},
+        { "ordinal":"eleventh", "gift":"Eleven pipers piping"},
+        { "ordinal":"twelfth", "gift":"Twelve drummers drumming"}
+    ]
+}
